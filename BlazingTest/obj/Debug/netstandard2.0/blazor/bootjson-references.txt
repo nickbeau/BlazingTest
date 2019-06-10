@@ -10,4 +10,5 @@ mscorlib.dll
 System.ComponentModel.Annotations.dll
 System.Core.dll
 System.dll
+System.IO.Compression.dll
 System.Net.Http.dll

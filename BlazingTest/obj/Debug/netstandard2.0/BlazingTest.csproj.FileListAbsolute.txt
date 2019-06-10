@@ -84,3 +84,5 @@ c:\s\BlazingTest\BlazingTest\obj\Debug\netstandard2.0\blazor\linker\System.Net.H
 c:\s\BlazingTest\BlazingTest\obj\Debug\netstandard2.0\blazor\linker\BlazingTest.pdb
 c:\s\BlazingTest\BlazingTest\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
 c:\s\BlazingTest\BlazingTest\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+C:\s\BlazingTest\BlazingTest\bin\Debug\netstandard2.0\dist\_framework\_bin\System.IO.Compression.dll
+C:\s\BlazingTest\BlazingTest\obj\Debug\netstandard2.0\blazor\linker\System.IO.Compression.dll
